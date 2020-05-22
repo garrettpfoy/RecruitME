@@ -1,0 +1,5 @@
+main: org.edgegamers.picklez.Main.RecruitME
+author: PickleZ / Garrett
+description: CPAS Hook to manage recruitment efforts for the Minecraft supported game (not division!)
+version: 1.0.0
+api-version: 1.13
